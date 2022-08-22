@@ -1,0 +1,10 @@
+
+header{
+    min-height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.659), rgba(0, 0, 0, 0.659)) , 
+    url(../images/1290-5.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 300px;
+}
+
